@@ -5,11 +5,11 @@ import readLine from "node:readline";
 
 import handleAdd from "./add.js";
 import handleCat from "./cat.js";
-import handleCd from "";
-import handleCompress from "";
-import handleCp from "";
-import handleDecompress from "";
-import handleHash from "";
+import handleCd from "./cd.js";
+import handleCompress from "./compress.js";
+import handleCp from "./cp.js";
+import handleDecompress from "./decompress.js";
+import handleHash from "./hash.js";
 import handleLine from "./line.js";
 import handleLs from "";
 import handleMv from "";
